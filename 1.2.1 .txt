@@ -1,5 +1,5 @@
 {  
-  "version":"2.0",  
+  "version":"1.0",  
   "title":"اطلاعیه مهم",  
   "description":"جهت حمایت و افزایش سرعت سرور ها ابتدا عضو کانال تلگرام ما شوید",  
   "download":"tg://resolve?domain=Vpn_irany",  
