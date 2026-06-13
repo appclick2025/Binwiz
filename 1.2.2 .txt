@@ -1,7 +1,7 @@
-{  
-  "version":"1.0",  
-  "title":"اطلاعیه مهم",  
-  "description":"فیلترشکن های اختصاصی پرسرعت و رایگان : برای دریافت وارد کانال تلگرام ما شوید🔥🔥",  
-  "download":"tg://resolve?domain=Vpn_irany",  
-  "buttonno":"no"  
+{ 
+"version":"2.0",
+"title":"کاربر گرامی 🔥",
+"description":"جهت استفاده از برنامه ، و دسترسی به برنامه های مود شده بیشتر حتما عضو کانال تلگرام ما شوید ❤️",
+"download":"tg://resolve?domain=VPN_irany",
+"buttonno":"yes"
 }
